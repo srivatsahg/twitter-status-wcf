@@ -1,0 +1,5 @@
+C:\Official\VSReferences\WCF\TwitterStatusReader\WcfStatusReaderService\bin\WcfStatusReaderService.dll.config
+C:\Official\VSReferences\WCF\TwitterStatusReader\WcfStatusReaderService\bin\WcfStatusReaderService.dll
+C:\Official\VSReferences\WCF\TwitterStatusReader\WcfStatusReaderService\bin\WcfStatusReaderService.pdb
+C:\Official\VSReferences\WCF\TwitterStatusReader\WcfStatusReaderService\obj\Debug\WcfStatusReaderService.dll
+C:\Official\VSReferences\WCF\TwitterStatusReader\WcfStatusReaderService\obj\Debug\WcfStatusReaderService.pdb

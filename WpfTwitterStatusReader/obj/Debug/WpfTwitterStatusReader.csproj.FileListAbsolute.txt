@@ -1,0 +1,12 @@
+C:\Official\VSReferences\WCF\TwitterStatusReader\WpfTwitterStatusReader\bin\Debug\WpfTwitterStatusReader.pdb
+C:\Official\VSReferences\WCF\TwitterStatusReader\WpfTwitterStatusReader\bin\Debug\WpfTwitterStatusReader.exe.config
+C:\Official\VSReferences\WCF\TwitterStatusReader\WpfTwitterStatusReader\bin\Debug\WpfTwitterStatusReader.exe
+C:\Official\VSReferences\WCF\TwitterStatusReader\WpfTwitterStatusReader\obj\Debug\MainWindow.baml
+C:\Official\VSReferences\WCF\TwitterStatusReader\WpfTwitterStatusReader\obj\Debug\MainWindow.g.cs
+C:\Official\VSReferences\WCF\TwitterStatusReader\WpfTwitterStatusReader\obj\Debug\App.g.cs
+C:\Official\VSReferences\WCF\TwitterStatusReader\WpfTwitterStatusReader\obj\Debug\WpfTwitterStatusReader_MarkupCompile.cache
+C:\Official\VSReferences\WCF\TwitterStatusReader\WpfTwitterStatusReader\obj\Debug\WpfTwitterStatusReader.g.resources
+C:\Official\VSReferences\WCF\TwitterStatusReader\WpfTwitterStatusReader\obj\Debug\WpfTwitterStatusReader.Properties.Resources.resources
+C:\Official\VSReferences\WCF\TwitterStatusReader\WpfTwitterStatusReader\obj\Debug\WpfTwitterStatusReader.csproj.GenerateResource.Cache
+C:\Official\VSReferences\WCF\TwitterStatusReader\WpfTwitterStatusReader\obj\Debug\WpfTwitterStatusReader.exe
+C:\Official\VSReferences\WCF\TwitterStatusReader\WpfTwitterStatusReader\obj\Debug\WpfTwitterStatusReader.pdb
